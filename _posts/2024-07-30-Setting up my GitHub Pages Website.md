@@ -1,8 +1,8 @@
 
 ---
 title: Setting up my GitHub Pages Website
-date: 2024-07-30 HH:MM:SS +0530
-categories: [website, protfolio]
+date: 2024-07-30 12:00:00 +0530
+categories: [website,protfolio]
 tags: [github_pages,website,blog]     # TAG names should always be lowercase
 ---
 #Introduction
