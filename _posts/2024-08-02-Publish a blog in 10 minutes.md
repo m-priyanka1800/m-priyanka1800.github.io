@@ -1,4 +1,4 @@
----
+[---
 title: Publish a blog in 10 minutes
 description: Setup and publish a blog directly from your browser in under 10 mintues!
 date: 2024-08-02 12:22:00 +0530
@@ -81,4 +81,4 @@ Navigate back to actions, and once deployment is successful refresh the page to 
 There are plenty of other types of content you can insert into your blog including images, inline video (including videos from Youtube), ordered lists, audio etc. Do take a look at the code of this post on the original Chripy repo to replicate some of these elements on your own site.
 
 
-Hope you found this helpful! Do write to us at @mail:mpriyanka1800@gmail.com with any feedback/suggestions.
+Hope you found this helpful! Do write to us at @mail:mpriyanka1800@gmail.com with any feedback/suggestions.](https://chirpy.cotes.page/posts/write-a-new-post/#front-matter)
